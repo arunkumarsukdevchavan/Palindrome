@@ -17,6 +17,7 @@ Step 5: print palindrome if it's equal else print not a palindrome.
 Step 6: stop the program
 ## Program:
 Name : ARUN KUMAR SUKDEV CHAVAN
+
 Reg.No : 212222230013
 ```
 using System;
